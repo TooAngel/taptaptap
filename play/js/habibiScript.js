@@ -10,8 +10,6 @@ function InitTapTapTapGame(callback) {
 }
 module.exports.InitTapTapTapGame = InitTapTapTapGame;
 
-console.log(externalCallback);
-
 /**
  * TapTapTapGame
  */
